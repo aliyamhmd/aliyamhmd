@@ -49,7 +49,7 @@ const aliyamhmd = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,git,github,vscode,linuxubuntu,threejs&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,git,github,vscode,ubuntu,threejs&theme=dark"/>
 
 </div>
 
@@ -57,13 +57,9 @@ const aliyamhmd = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aliyamhmd&show_icons=true&theme=dark&bg_color=0d1117&title_color=ff1744&icon_color=ff1744&text_color=ffffff&border_color=ff1744&hide_border=false"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aliyamhmd&theme=dark&background=0d1117&ring=ff1744&fire=ff1744&currStreakLabel=ff1744&sideLabels=ffffff&border=ff1744"/>
 
 <br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliyamhmd&layout=compact&theme=dark&bg_color=0d1117&title_color=ff1744&text_color=ffffff&border_color=ff1744"/>
 
 </div>
 
@@ -83,11 +79,11 @@ const aliyamhmd = {
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff1744"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff1744"/>
+<a href="https://www.instagram.com/aliyamhmd__">
+<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff1744"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:aliyamhmd1207@gmail.com">
 <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ff1744"/>
 </a>
 
